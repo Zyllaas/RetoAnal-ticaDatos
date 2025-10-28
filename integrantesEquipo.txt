@@ -2,4 +2,6 @@
 matricula: A01230894
 nombre: Jorge
 carrera: ITC
-
+matricula: A00842805
+carrera: IMT
+nombre: Camille
