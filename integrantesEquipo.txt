@@ -2,6 +2,14 @@
 matricula: A01230894
 nombre: Jorge
 carrera: ITC
+<<<<<<< HEAD
+
 matricula: A00842805
 carrera: IMT
 nombre: Camille
+=======
+
+matricula: A00841256
+nombre: Sofia 
+carrera: IDM
+>>>>>>> 333fab8601bb9f679c5318fe8da88d494732ac1b
